@@ -26,5 +26,5 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 ### Diagrama do Iphone
 
-![alt](https://)
+![Diagrama de Classes](/assets/diagram/Classes.png)
 
