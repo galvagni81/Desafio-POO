@@ -24,7 +24,7 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 ##
 
-### Diagrama do Iphone
+### Diagrama de Classes do Desafio POO (iPhone)
 
 ![Diagrama de Classes](/assets/diagram/Classes.png)
 
